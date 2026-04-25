@@ -1,6 +1,8 @@
 
 VIDEO: https://youtu.be/CqgaI2hpLLw
 
+Recuerde lo que le dije del video mi estimado (yo pensaba que los cortes eran en el video, pero no corte nada del proceso, solo fue al final y ya)
+
 
 ROUTERS (R1, R2-C, R3-C, R4-C)
 enable
